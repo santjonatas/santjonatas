@@ -1,4 +1,4 @@
-### Ola! Me chamo Jônatas Santos ✨
+### Olá! Me chamo Jônatas Santos
 ### Estudante de Analise e Desenvolvimento de Sistemas 👨‍💻
 
 
