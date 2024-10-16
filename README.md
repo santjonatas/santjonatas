@@ -1,5 +1,5 @@
 ### Olá! Me chamo Jônatas Santos
-### Estudante de Analise e Desenvolvimento de Sistemas 👨‍💻
+### Desenvolvedor | Backend | RPA | Python | Flask | Automation Anywhere 👨‍💻
 
 
 <a href="mailto:jonatascaina100@gmail.com" target="_blank">
