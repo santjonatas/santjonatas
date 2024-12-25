@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=santjonatas&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santjonatas&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&cache_seconds=86400)
 
 ### Tecnologias que ja utilizei:
 
