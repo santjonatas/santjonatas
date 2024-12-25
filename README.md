@@ -1,5 +1,5 @@
 ### Olá! Me chamo Jônatas Santos
-### Desenvolvedor | Backend | RPA | Python | Flask | Automation Anywhere 👨‍💻
+### Desenvolvedor | Backend | Java | Spring | Spring Boot | Python | Flask 👨‍💻
 
 
 <a href="mailto:jonatascaina100@gmail.com" target="_blank">
