@@ -1,5 +1,5 @@
 ### Olá! Me chamo Jônatas Santos
-### Desenvolvedor | Backend | Java | Spring | Spring Boot 👨‍💻
+### Desenvolvedor | Backend | Java | Spring | Spring Boot | React.Js 👨‍💻
 
 
 <a href="mailto:jonatascaina100@gmail.com" target="_blank">
